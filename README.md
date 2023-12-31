@@ -1,20 +1,28 @@
-### Setup instruction
+################LMS Frontend
+### Setup Instruction
  1  Clone the project
-    ```
-    git clone https://github.com/sahillohan33/lms-frontend.git
-    ```
+    '''
+        git clone https://github.com/sahillohan33/lms-frontend.git
+    '''
 2.  Move into the directory
-    ```cd lms-frontend
-    ```
+    '''
+        cd lms-frontend
+    '''
 3.  install dependencies
-    npm i
+   '''
+        npm i
+   '''
 4.  run the server
-    npm run dev
+    '''
+        npm run dev
+    '''
 5.  Setup instructions for tailwind
-Tail wind official instruction doc
+ ###Tail wind official instruction doc
 
-Install tailwindcss
-    npm install -D tailwindcss postcss autoprefixer
+###Install tailwindcss
+    '''
+        npm install -D tailwindcss postcss autoprefixer
+    '''
 Create tailwind config file
     npx tailwindcss init
 Add file extensions to tailwind config file in the contents property
