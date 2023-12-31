@@ -14,13 +14,13 @@
 3 install dependencies
 ```
     npm i
-``
+```
 4 run the server
-``
+```
     npm run dev
-``
-5 Setup instructions for tailwind
- '''Tail wind official instruction doc'''
+```
+###Setup instructions for tailwind
+ [Tail wind official instruction doc](https://tailwindcss.com/docs/installation)
 
 1 Install tailwindcss
 ```
