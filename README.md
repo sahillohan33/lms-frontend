@@ -4,13 +4,13 @@
 
 1  Clone the project
 
-...
+```
     git clone https://github.com/sahillohan33/lms-frontend.git
-...
+```
 2 Move into the directory
- ...
+ ```
     cd lms-frontend
-...
+```
 3 install dependencies
 ...
     npm i
